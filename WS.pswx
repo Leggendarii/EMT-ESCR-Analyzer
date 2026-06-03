@@ -1,0 +1,15 @@
+<workspace name="WS" version="5.0.2" crc="34182205">
+  <projects>
+    <project type="library" name="Tools" filepath=".\Tools.pslx" />
+    <project type="project" name="ieee_09_bus" filepath=".\ieee_09_bus.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>
