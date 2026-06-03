@@ -27,6 +27,9 @@ Files in this workspace
 - `ieee_09_bus.pscx` — IEEE 9-bus test case.
 - `Tools.pslx` — supporting tools and scripts used by the workspace.
 
+Link to the Paper
+--------
+https://arxiv.org/abs/2606.03538
 Citation
 --------
 @misc{darii2026estimationequivalentscroffshore,
@@ -36,5 +39,5 @@ Citation
       eprint={2606.03538},
       archivePrefix={arXiv},
       primaryClass={eess.SY},
-      url={https://arxiv.org/abs/2606.03538} 
+      url={https://arxiv.org/abs/2606.03538}, 
 }
