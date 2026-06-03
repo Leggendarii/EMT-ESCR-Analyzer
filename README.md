@@ -36,5 +36,5 @@ Citation
       eprint={2606.03538},
       archivePrefix={arXiv},
       primaryClass={eess.SY},
-      url={https://arxiv.org/abs/2606.03538}, 
+      url={https://arxiv.org/abs/2606.03538} 
 }
