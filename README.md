@@ -27,18 +27,16 @@ Files in this workspace
 - `ieee_09_bus.pscx` — IEEE 9-bus test case.
 - `Tools.pslx` — supporting tools and scripts used by the workspace.
 
-Link to the Paper
---------
-https://arxiv.org/abs/2606.03538
+## Citation
 
-Citation
---------
-@misc{darii2026estimationequivalentscroffshore,
-      title={Estimation of Equivalent SCR for Offshore Wind}, 
-      author={Nicolae Darii and Ranjan Sharma and Germano Rugendo Mugambi and Oscar Saborio Romano and Nicolaos A. Cutululis},
-      year={2026},
-      eprint={2606.03538},
-      archivePrefix={arXiv},
-      primaryClass={eess.SY},
-      url={https://arxiv.org/abs/2606.03538}, 
+If you use this repository or the associated data/code in your research, please cite:
+
+```bibtex
+@article{Darii_Estimation_of_Equivalent_2026,
+  author = {Darii, Nicolae and Sharma, Ranjan and Mugambi, Germano Rugendo and Saborío-Romano, Oscar and Cutululis, Nicolaos A.},
+  doi = {10.1016/j.epsr.2026.113491},
+  journal = {Electric Power Systems Research},
+  title = {{Estimation of Equivalent SCR for Offshore Wind}},
+  url = {https://doi.org/10.1016/j.epsr.2026.113491},
+  year = {2026}
 }
