@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+
+title: "Estimation of Equivalent SCR for Offshore Wind"
+
+message: >
+  If you use this software in academic work, please cite the associated paper.
+
+type: software
+
+authors:
+  - family-names: Darii
+    given-names: Nicolae
+    affiliation: Siemens Gamesa Renewable Energy A/S
+  - family-names: Sharma
+    given-names: Ranjan
+    affiliation: Siemens Gamesa Renewable Energy A/S
+  - family-names: Mugambi
+    given-names: Germano Rugendo
+    affiliation: Technical University of Denmark
+  - family-names: Saborío-Romano
+    given-names: Oscar
+    affiliation: Technical University of Denmark
+  - family-names: Cutululis
+    given-names: Nicolaos A.
+    affiliation: Technical University of Denmark
+
+license: MIT
+
+preferred-citation:
+  type: article
+  title: "Estimation of Equivalent SCR for Offshore Wind"
+  authors:
+    - family-names: Darii
+      given-names: Nicolae
+    - family-names: Sharma
+      given-names: Ranjan
+    - family-names: Mugambi
+      given-names: Germano Rugendo
+    - family-names: Saborío-Romano
+      given-names: Oscar
+    - family-names: Cutululis
+      given-names: Nicolaos A.
+  journal: "Electric Power Systems Research"
+  year: 2026
+  doi: 10.1016/j.epsr.2026.113491
+  url: https://doi.org/10.1016/j.epsr.2026.113491
