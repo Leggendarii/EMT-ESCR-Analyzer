@@ -25,6 +25,7 @@ Files in this workspace
 -----------------------
 - `WS.pswx` — workspace file to open the project.
 - `ieee_09_bus.pscx` — IEEE 9-bus test case.
+- `ieee_09_bus_wIBR.pscx` — IEEE 9-bus test case with 2 IBRs
 - `Tools.pslx` — supporting tools and scripts used by the workspace.
 
 ## Citation
