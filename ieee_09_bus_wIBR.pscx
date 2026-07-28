@@ -21,7 +21,7 @@
     <param name="Warn" value="0" />
     <param name="Check" value="0" />
     <param name="description" value="" />
-    <param name="revisor" value="nicolae.darii, 1785237459" />
+    <param name="revisor" value="nicolae.darii, 1785238142" />
     <param name="startup_filename" value="" />
     <param name="Debug" value="0" />
     <param name="sparsity_threshold" value="200" />
@@ -2317,7 +2317,7 @@ Q
         <grouping />
       </schematic>
     </Definition>
-    <Definition classid="UserCmpDefn" name="Main" group="" url="" version="" build="" crc="78373073" instances="1" view="false" date="1785237285" id="1756244852">
+    <Definition classid="UserCmpDefn" name="Main" group="" url="" version="" build="" crc="89437837" instances="1" view="false" date="1785237285" id="1756244852">
       <paramlist name="">
         <param name="Description" value="" />
       </paramlist>
@@ -3370,63 +3370,6 @@ Raw file data are available via PSS/E module.]]></Sticky>
         <User classid="UserCmp" defn="master:time-sig" id="736751798" x="1314" y="72" w="21" h="76" z="10" orient="1" link="-1" q="4" disable="false">
           <paramlist link="-1" name="" crc="20913136" />
         </User>
-        <User classid="UserCmp" name="master:multimeter" id="976715153" x="1764" y="432" w="44" h="54" z="1" orient="4" defn="master:multimeter" link="-1" layer="" q="4" disable="true">
-          <paramlist link="-1" name="" crc="27440011">
-            <param name="MeasI" value="0" />
-            <param name="MeasV" value="0" />
-            <param name="MeasP" value="1" />
-            <param name="MeasQ" value="1" />
-            <param name="RMS" value="1" />
-            <param name="MeasPh" value="0" />
-            <param name="S" value="100.0 [MVA]" />
-            <param name="BaseV" value="13.8 [kV]" />
-            <param name="TS" value="0.02 [s]" />
-            <param name="Freq" value="60.0 [Hz]" />
-            <param name="Dis" value="1" />
-            <param name="CurI" value="" />
-            <param name="VolI" value="" />
-            <param name="P" value="" />
-            <param name="Q" value="" />
-            <param name="Vrms" value="" />
-            <param name="Ph" value="" />
-            <param name="hide1" value="0" />
-            <param name="hide2" value="0" />
-            <param name="Pd" value="0.0" />
-            <param name="Qd" value="0.0" />
-            <param name="Vd" value="0.0" />
-            <param name="IRMS" value="0" />
-            <param name="BaseA" value="1.0" />
-            <param name="Crms" value="" />
-            <param name="Name" value="" />
-            <param name="VolILL" value="" />
-          </paramlist>
-        </User>
-        <User classid="UserCmp" id="182015043" name="Z_tool:ACscan" x="1656" y="432" w="117" h="64" z="70" orient="0" defn="Z_tool:ACscan" link="-1" q="4" disable="true">
-          <paramlist name="" link="-1" crc="85327719">
-            <param name="Name" value="Network" />
-            <param name="f0" value="50" />
-            <param name="Devices" value="1" />
-            <param name="V0" value="220" />
-            <param name="untitled" value="0" />
-            <param name="V_perturb_mag" value="0.01" />
-            <param name="frequencies_file" value="frequencies.txt" />
-            <param name="Tdelay_inj" value="1000" />
-            <param name="Vpeak" value="220" />
-            <param name="V_peak" value="220" />
-            <param name="selector" value="1" />
-            <param name="Tsnapshot" value="1000" />
-            <param name="V0_peak" value="11.27" />
-            <param name="block_id" value="0" />
-            <param name="T_inj" value="10" />
-            <param name="Tdecoupling" value="6" />
-            <param name="Vac_control" value="0" />
-            <param name="single_frequency" value="1" />
-          </paramlist>
-        </User>
-        <Wire classid="WireOrthogonal" id="393529460" name="" x="1710" y="432" w="46" h="10" orient="0" disable="true">
-          <vertex x="0" y="0" />
-          <vertex x="36" y="0" />
-        </Wire>
         <User classid="UserCmp" id="1026425834" name="Tools:Base_VSC" x="1062" y="900" w="102" h="119" z="230" orient="2" defn="Tools:Base_VSC" link="-1" q="4" disable="false">
           <paramlist name="" link="-1" crc="132287285">
             <param name="Con_Time" value="1" />
@@ -3646,23 +3589,6 @@ Raw file data are available via PSS/E module.]]></Sticky>
           <vertex x="126" y="162" />
           <vertex x="234" y="162" />
         </Wire>
-        <User classid="UserCmp" id="63426417" name="Tools:Thevenin_Grid" x="1548" y="432" w="100" h="84" z="60" orient="2" defn="Tools:Thevenin_Grid" link="-1" q="4" disable="true">
-          <paramlist name="" link="-1" crc="105453096">
-            <param name="Name" value="" />
-            <param name="SCR" value="3.81" />
-            <param name="Vg" value="13.8" />
-            <param name="XRr" value="1.96" />
-            <param name="Vft" value="0.001" />
-            <param name="OWPP_P" value="100" />
-            <param name="freq" value="50" />
-            <param name="tcon" value="0" />
-            <param name="tfault" value="0" />
-            <param name="deltat_tfault" value="0" />
-            <param name="fault_type" value="0" />
-            <param name="delta_tfault" value="0.15" />
-            <param name="tdiscon" value="1000" />
-          </paramlist>
-        </User>
         <User classid="UserCmp" defn="master:ratelimit" id="227336371" x="1314" y="216" w="59" h="80" z="60" orient="1" link="-1" q="4" disable="false">
           <paramlist link="-1" name="" crc="104623579">
             <param name="IR" value="1 [1/s]" />
@@ -8897,106 +8823,6 @@ Raw file data are available via PSS/E module.]]></Sticky>
         <param name="active_1" value="true" />
       </paramlist>
     </Settings>
-    <Settings classid="GraphFrameSettings" id="476913986" link="1723775589">
-      <path>
-        <ref link="84624640" />
-        <ref link="182015043" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="-1" />
-        <param name="xmax" value="1" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="568940738" link="277838313">
-      <path>
-        <ref link="84624640" />
-        <ref link="182015043" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-1.000000" />
-        <param name="ymax" value="1.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="733495890" link="1605368389">
-      <path>
-        <ref link="84624640" />
-        <ref link="182015043" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-        <param name="visible_8" value="false" />
-        <param name="visible_7" value="false" />
-        <param name="visible_6" value="false" />
-        <param name="visible_5" value="false" />
-        <param name="visible_4" value="false" />
-        <param name="visible_3" value="false" />
-        <param name="visible_2" value="true" />
-        <param name="visible_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="706723341" link="783876849">
-      <path>
-        <ref link="84624640" />
-        <ref link="182015043" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-        <param name="visible_8" value="false" />
-        <param name="visible_7" value="false" />
-        <param name="visible_6" value="false" />
-        <param name="visible_5" value="false" />
-        <param name="visible_4" value="false" />
-        <param name="visible_3" value="false" />
-        <param name="visible_2" value="true" />
-        <param name="visible_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="1825139006" link="476680278">
-      <path>
-        <ref link="84624640" />
-        <ref link="182015043" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-        <param name="visible_8" value="false" />
-        <param name="visible_7" value="false" />
-        <param name="visible_6" value="false" />
-        <param name="visible_5" value="false" />
-        <param name="visible_4" value="false" />
-        <param name="visible_3" value="false" />
-        <param name="visible_2" value="true" />
-        <param name="visible_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="GraphFrameSettings" id="2063378425" link="93020781">
-      <path>
-        <ref link="84624640" />
-        <ref link="182015043" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="0.0" />
-        <param name="xmax" value="20.0" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="191662989" link="729794073">
-      <path>
-        <ref link="84624640" />
-        <ref link="182015043" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-2.0" />
-        <param name="ymax" value="14.0" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="179150456" link="1346253678">
-      <path>
-        <ref link="84624640" />
-        <ref link="182015043" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
     <Settings classid="GraphFrameSettings" id="1027451961" link="2057662008">
       <path>
         <ref link="84624640" />
@@ -9623,102 +9449,6 @@ Raw file data are available via PSS/E module.]]></Sticky>
         <param name="active_1" value="true" />
       </paramlist>
     </Settings>
-    <Settings classid="GraphFrameSettings" id="331052460" link="151385087">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="-1" />
-        <param name="xmax" value="1" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="671859142" link="1924083175">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-1.000000" />
-        <param name="ymax" value="1.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="760303711" link="836128158">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="2060433810" link="914419625">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-1.000000" />
-        <param name="ymax" value="1.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="846415295" link="1080663486">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="GraphFrameSettings" id="1830104543" link="119145673">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="0.0" />
-        <param name="xmax" value="100.0" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="577001332" link="1322571090">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-9.0e+45" />
-        <param name="ymax" value="9.2e+46" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="500979614" link="814179051">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="1340187382" link="1689207935">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-7.0e+294" />
-        <param name="ymax" value="7.6e+295" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="880530538" link="802635355">
-      <path>
-        <ref link="84624640" />
-        <ref link="63426417" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
   </List>
   <bookmarks />
   <List classid="Resource" />
@@ -9731,11 +9461,8 @@ Raw file data are available via PSS/E module.]]></Sticky>
     </paramlist>
   </GlobalSubstitutions>
   <hierarchy>
-    <call link="1013959613" name="ieee_09_bus_wIBR:Station" z="-1" view="false" instance="0">
+    <call link="168705910" name="ieee_09_bus_wIBR:Station" z="-1" view="false" instance="0">
       <call link="84624640" name="ieee_09_bus_wIBR:Main" z="-1" view="true" instance="0">
-        <call link="63426417" name="Tools:Thevenin_Grid" z="60" view="false" instance="0">
-          <call link="1925991823" name="Tools:SCR_calculator" z="210" view="false" instance="0" />
-        </call>
         <call link="638049920" name="Tools:ESCR_Analyzer" z="70" view="false" instance="0" />
         <call link="8336909" name="ieee_09_bus_wIBR:T7_8" z="90" view="false" instance="0">
           <call link="392134517" name="ieee_09_bus_wIBR:TLine_1" z="-1" view="false" instance="0" />

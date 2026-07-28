@@ -23,7 +23,7 @@
     <param name="Warn" value="0" />
     <param name="Check" value="0" />
     <param name="description" value="" />
-    <param name="revisor" value="nicolae.darii, 1785237553" />
+    <param name="revisor" value="nicolae.darii, 1785238156" />
     <param name="Debug" value="0" />
   </paramlist>
   <Layers>
@@ -2394,197 +2394,6 @@
         <param name="active_1" value="true" />
       </paramlist>
     </Settings>
-    <Settings classid="GraphFrameSettings" id="1476510768" link="794513364">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="0.000000" />
-        <param name="xmax" value="1.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="529554713" link="1536785416">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-2.000000" />
-        <param name="ymax" value="2.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="1543456745" link="1900419321">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="GraphFrameSettings" id="1621846828" link="737394431">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="0.000000" />
-        <param name="xmax" value="1.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="476344628" link="2037586620">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-2.000000" />
-        <param name="ymax" value="2.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="473187709" link="1775606829">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="GraphFrameSettings" id="497777012" link="579063036">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="0.000000" />
-        <param name="xmax" value="1.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="1628408548" link="169151009">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-2.000000" />
-        <param name="ymax" value="2.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="1221770242" link="347630534">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="1074736279" link="31922616">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="GraphFrameSettings" id="1318501665" link="1712979663">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="0.000000" />
-        <param name="xmax" value="1.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="442544378" link="221832736">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-2.000000" />
-        <param name="ymax" value="2.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="2856913" link="1234881142">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="GraphFrameSettings" id="2109791080" link="594327256">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="0.000000" />
-        <param name="xmax" value="1.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="1052925677" link="1436036649">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-2.000000" />
-        <param name="ymax" value="2.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="35326541" link="1318060621">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="474915545" link="1399179966">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="1609987600" link="1659749699">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-2.000000" />
-        <param name="ymax" value="2.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="1374084642" link="1761233955">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="191766028" link="1872169341">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
     <Settings classid="GraphFrameSettings" id="41686782" link="426314277">
       <path>
         <ref link="1737735268" />
@@ -2637,73 +2446,6 @@
       <paramlist>
         <param name="ymin" value="-1.000000" />
         <param name="ymax" value="1.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="GraphFrameSettings" id="591515441" link="771622833">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="-1" />
-        <param name="xmax" value="1" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="1825283409" link="1788907171">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-2.000000" />
-        <param name="ymax" value="2.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="1122379451" link="1456953477">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="378738087" link="1900142916">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
-      </paramlist>
-    </Settings>
-    <Settings classid="GraphFrameSettings" id="246195632" link="1459434115">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="xmin" value="-1" />
-        <param name="xmax" value="1" />
-      </paramlist>
-    </Settings>
-    <Settings classid="OverlayGraphSettings" id="1973085216" link="982836044">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="ymin" value="-2.000000" />
-        <param name="ymax" value="2.000000" />
-      </paramlist>
-    </Settings>
-    <Settings classid="TraceSettings" id="1688274290" link="1383844056">
-      <path>
-        <ref link="1737735268" />
-        <ref link="1924642678" />
-      </path>
-      <paramlist>
-        <param name="active_1" value="true" />
       </paramlist>
     </Settings>
     <Settings classid="GraphFrameSettings" id="606903970" link="426314277">
@@ -4846,6 +4588,204 @@
         <param name="ymax" value="2.000000" />
       </paramlist>
     </Settings>
+    <Settings classid="GraphFrameSettings" id="258554248" link="2057662008">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="xmin" value="-1" />
+        <param name="xmax" value="1" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="1690657613" link="1396190357">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="360696211" link="2021706394">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="GraphFrameSettings" id="1758295262" link="22923083">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="xmin" value="-1" />
+        <param name="xmax" value="1" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="364041739" link="1885322779">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="1339687459" link="765774578">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="GraphFrameSettings" id="77324739" link="240263112">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="xmin" value="-1" />
+        <param name="xmax" value="1" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="498342116" link="678845278">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="1865487629" link="1417970616">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="GraphFrameSettings" id="17612185" link="1292998626">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="xmin" value="-1" />
+        <param name="xmax" value="1" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="1357760302" link="599391662">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="1334192335" link="1768747427">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="991182260" link="298897811">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="1675754889" link="467614927">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="285971362" link="331223145">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="GraphFrameSettings" id="1545502076" link="172447498">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="xmin" value="-1" />
+        <param name="xmax" value="1" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="1729534179" link="1577408674">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="375807145" link="1658042574">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="GraphFrameSettings" id="803001864" link="1633607335">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="xmin" value="-1" />
+        <param name="xmax" value="1" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="741590334" link="698299811">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
+    <Settings classid="GraphFrameSettings" id="120936436" link="531007263">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="xmin" value="-1" />
+        <param name="xmax" value="1" />
+      </paramlist>
+    </Settings>
+    <Settings classid="OverlayGraphSettings" id="461168970" link="1537942485">
+      <path>
+        <ref link="1737735268" />
+      </path>
+      <paramlist>
+        <param name="ymin" value="-2.000000" />
+        <param name="ymax" value="2.000000" />
+      </paramlist>
+    </Settings>
   </List>
   <bookmarks />
   <GlobalSubstitutions name="Default">
@@ -6436,7 +6376,7 @@ It uses "partitore di tensione" where V drops on the fault and 1-V drops in the 
         </Wire>
       </schematic>
     </Definition>
-    <Definition classid="UserCmpDefn" name="Main" id="2079721962" group="" url="" version="" build="" crc="113511876" view="false" date="0">
+    <Definition classid="UserCmpDefn" name="Main" id="2079721962" group="" url="" version="" build="" crc="114422664" view="false" date="0">
       <paramlist name="">
         <param name="Description" value="" />
       </paramlist>
@@ -6567,63 +6507,6 @@ It uses "partitore di tensione" where V drops on the fault and 1-V drops in the 
         <User classid="UserCmp" id="235713098" name="Tools:Cable_220kV" x="450" y="270" w="116" h="36" z="-1" orient="0" defn="Tools:Cable_220kV" link="-1" q="4" disable="false">
           <paramlist name="" link="-1" crc="79453600">
             <param name="Name" value="" />
-          </paramlist>
-        </User>
-        <User classid="UserCmp" id="1924642678" name="Tools:White_Box_VSC" x="396" y="108" w="100" h="101" z="-1" orient="2" defn="Tools:White_Box_VSC" link="-1" q="4" disable="false">
-          <paramlist name="" link="-1" crc="94803210">
-            <param name="Sbase" value="50" />
-            <param name="Vacbase" value="40" />
-            <param name="Lpu" value="0.00209375" />
-            <param name="freq" value="50" />
-            <param name="Pref" value="0.5" />
-            <param name="Qref" value="0.5" />
-            <param name="Vref_0" value="1" />
-            <param name="Conn_time" value="3" />
-            <param name="mode" value="0" />
-          </paramlist>
-          <paramlist name="" link="594327256">
-            <param name="xmin" value="0.000000" />
-            <param name="xmax" value="1.000000" />
-          </paramlist>
-          <paramlist name="" link="1659749699">
-            <param name="ymin" value="-2.000000" />
-            <param name="ymax" value="2.000000" />
-          </paramlist>
-          <paramlist name="" link="1436036649">
-            <param name="ymin" value="-2.000000" />
-            <param name="ymax" value="2.000000" />
-          </paramlist>
-          <paramlist name="" link="1712979663">
-            <param name="xmin" value="0.000000" />
-            <param name="xmax" value="1.000000" />
-          </paramlist>
-          <paramlist name="" link="221832736">
-            <param name="ymin" value="-2.000000" />
-            <param name="ymax" value="2.000000" />
-          </paramlist>
-          <paramlist name="" link="579063036">
-            <param name="xmin" value="0.000000" />
-            <param name="xmax" value="1.000000" />
-          </paramlist>
-          <paramlist name="" link="169151009">
-            <param name="ymin" value="-2.000000" />
-            <param name="ymax" value="2.000000" />
-          </paramlist>
-          <paramlist name="" link="737394431">
-            <param name="xmin" value="0.000000" />
-            <param name="xmax" value="1.000000" />
-          </paramlist>
-          <paramlist name="" link="2037586620">
-            <param name="ymin" value="-2.000000" />
-            <param name="ymax" value="2.000000" />
-          </paramlist>
-          <paramlist name="" link="794513364">
-            <param name="xmin" value="0.000000" />
-            <param name="xmax" value="1.000000" />
-          </paramlist>
-          <paramlist name="" link="1536785416">
-            <param name="ymin" value="-2.000000" />
-            <param name="ymax" value="2.000000" />
           </paramlist>
         </User>
         <User classid="UserCmp" id="154260151" name="Tools:Negative_Resistance" x="522" y="126" w="40" h="116" z="-1" orient="0" defn="Tools:Negative_Resistance" link="-1" q="4" disable="false">
@@ -30609,27 +30492,18 @@ Ti = 0.02]]></Sticky>
   </definitions>
   <List classid="Resource" />
   <hierarchy>
-    <call link="1988433030" name="Tools:DS" z="-1" view="false" instance="0">
+    <call link="71492201" name="Tools:DS" z="-1" view="false" instance="0">
       <call link="1737735268" name="Tools:Main" z="-1" view="true" instance="0">
         <call link="612255657" name="Tools:ESCR_Analyzer" z="-1" view="false" instance="0" />
+        <call link="1539124729" name="Tools:SCR_calculator" z="-1" view="false" instance="0" />
+        <call link="154260151" name="Tools:Negative_Resistance" z="-1" view="false" instance="0" />
+        <call link="235713098" name="Tools:Cable_220kV" z="-1" view="false" instance="0" />
         <call link="2012186754" name="Tools:Thevenin_Grid" z="-1" view="false" instance="0">
-          <call link="1925991823" name="Tools:SCR_calculator" z="210" view="false" instance="0" />
+          <call link="1925991823" name="Tools:SCR_calculator" z="210" view="false" instance="1" />
         </call>
-        <call link="1924642678" name="Tools:White_Box_VSC" z="-1" view="false" instance="0">
-          <call link="852312648" name="Tools:PLL" z="470" view="false" instance="0" />
-          <call link="1552081806" name="Tools:PI_AntiWindUp" z="810" view="false" instance="0" />
-          <call link="100718210" name="Tools:PI_AntiWindUp" z="830" view="false" instance="1" />
-          <call link="1329488061" name="Tools:PI_AntiWindUp" z="920" view="false" instance="2" />
-          <call link="110787168" name="Tools:PI_AntiWindUp" z="1020" view="false" instance="3" />
-          <call link="1147208516" name="Tools:PI_AntiWindUp" z="1030" view="false" instance="4" />
-          <call link="1948321753" name="Tools:Filter_L" z="1280" view="false" instance="0" />
-        </call>
-        <call link="1539124729" name="Tools:SCR_calculator" z="-1" view="false" instance="1" />
         <call link="763986384" name="Tools:Base_VSC" z="-1" view="false" instance="0">
           <call link="1870066217" name="Tools:PLL_3_1" z="680" view="false" instance="0" />
         </call>
-        <call link="154260151" name="Tools:Negative_Resistance" z="-1" view="false" instance="0" />
-        <call link="235713098" name="Tools:Cable_220kV" z="-1" view="false" instance="0" />
       </call>
     </call>
   </hierarchy>
